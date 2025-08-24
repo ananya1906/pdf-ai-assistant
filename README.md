@@ -66,7 +66,7 @@ Use the provided files in `sample-pdf/` or add your own.
 - Processing very large PDFs may have memory limits depending on your system.
 
 ## File Structure
-
+```
 backend/
 │ app.py
 │ pdf_parser.py
@@ -78,7 +78,7 @@ backend/
 sample pdf/
 │ AI-assignment.pdf
 
-
+```
 ## Instructions to Run Locally
 
 - Follow steps under "How to Run Locally" above.
@@ -86,6 +86,7 @@ sample pdf/
 - Example PDF files are in the sample pdf folder.
 
 ---
+
 
 
 
